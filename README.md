@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Valentin-Paul
-- 👀 I’m a Full-Stack Web-Developmer
+- 👀 I’m a Full-Stack Web-Developer
 - 💞️ I’m looking to collaborate on interesting and challenging coding-projects 
 
 
